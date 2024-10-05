@@ -3,6 +3,6 @@
 a = int(input("provide number:"))
 sq = (a * a)
 cube = (a * a * a)
-print(sq)
-print(cube)
+print("cube of the no is",sq)
+print("cube of the no is",cube)
 print("Task Completed")
